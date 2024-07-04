@@ -7,9 +7,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I am currently pursuing a Master's degree in Data Science.
+- :telescope: Data Scientist
 
-- :seedling: Learning ML, Computer Vision.
-
-- :zap: In my free time, I read tech articles.
+- :seedling: Machine Learning, Computer Vision, LLM.
 
